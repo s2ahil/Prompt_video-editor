@@ -100,7 +100,7 @@ function App() {
                 </div>
                 <div>
                   <h1 className="text-3xl font-bold text-gray-900">F*ck Video Editors</h1>
-                  <p className="text-gray-600">Not sh*t only wibe</p>
+                  <p className="text-gray-600">Not sh*t only vibes</p>
                 </div>
               </div>
             </div>
