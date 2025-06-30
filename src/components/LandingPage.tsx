@@ -12,7 +12,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onNavigateToEditor }) => {
       <div className="text-center max-w-4xl mx-auto">
         <div className="mb-8">
           <h1 className="text-6xl md:text-8xl font-bold mb-4 bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent">
-            Fuck Video Editing
+            F*ck Video Editing
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-2xl mx-auto">
             Stop wrestling with timelines and confusing interfaces. Just tell us what you want, and we'll make it happen.
