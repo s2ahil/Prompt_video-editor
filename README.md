@@ -1,4 +1,4 @@
-# Prompt_video-editor
+# Prompt_video-editing
 
 [![Built with Bolt](https://github.com/kickiniteasy/bolt-hackathon-badge/raw/main/src/public/bolt-badge/white_circle_360x36
 
