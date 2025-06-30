@@ -2,6 +2,9 @@
 
 [![Built with Bolt](https://github.com/kickiniteasy/bolt-hackathon-badge/raw/main/src/public/bolt-badge/white_circle_360x36
 
+The bolt code which we used : https://bolt.new/~/sb1-hzbttjsq
+Email id : sahiluniverse1+2@gmail.com
+
 Prompt Video Editor is a next-generation, AI-powered video editing tool built for the World’s Largest Hackathon presented by Bolt.
 Edit your videos with natural language prompts—no complex software or timelines. Just upload, describe your edit, and let AI do the magic!
 
